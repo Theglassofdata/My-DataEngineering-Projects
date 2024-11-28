@@ -1,6 +1,6 @@
 # My Data Engineering Projects
 
-This repository contains my data engineering projects and datasets.
+This repository contains my data engineering AzureProject1 and datasets.
 
 ## Folder Structure
 
